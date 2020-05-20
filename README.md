@@ -6,4 +6,4 @@ It uses weather API to fetch data.
 
 Screenshots: 
 
-![](lib/screenshots/Clima_home.png)
+<img src="https://github.com/BendingLight/Flutter-Clima/blob/master/lib/screenshots/Clima_home.png" width="200">
